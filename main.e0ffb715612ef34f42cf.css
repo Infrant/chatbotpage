@@ -1,0 +1,6 @@
+.chat-bot__uiEoO{width:500px;border-radius:20px;background:#dbdbdb;overflow:hidden;box-shadow:4px 4px 10px 5px rgba(25,42,62,.4)}
+.header__k5rxh{background:#483d8b;color:#fff;padding:18px 5px 18px 30px;border-bottom:1px solid #fff}.header__caption__NfSOs{display:flex;justify-content:space-between;align-items:center}.header__update__Rq3op{transition-duration:.5s}.header__update__wrapper__fgdDA:hover .header__update__Rq3op{transform:scale(1.2)}
+.input-field__eLAN9{padding:20px 15px;display:flex;align-items:center;border-top:1px solid #e0e0e0;background:#d3d3d3}.input-field__eLAN9>*:first-child{margin-right:5px}
+.message-field__U4drR{height:500px;padding:10px 15px 5px 15px;box-sizing:border-box;overflow-y:scroll;display:flex;flex-direction:column}.message-field__U4drR>*{margin-bottom:10px}
+.message__yHn51{color:#fff;box-sizing:border-box;max-width:200px;width:fit-content;padding:10px;background:#3b3272;word-wrap:break-word;border-radius:10px}.message__user__m11Ku{align-self:flex-end}.message__bot__M7b4k{background:#5548a4;align-self:flex-start}
+body{margin:0}.container__w8XR2{display:flex;align-items:center;justify-content:center;height:100vh;width:100vw}
